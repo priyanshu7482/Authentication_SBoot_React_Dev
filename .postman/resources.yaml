@@ -1,0 +1,8 @@
+# Use this workspace to collaborate
+workspace:
+  id: aadbb226-4460-444c-8332-552aa0dc3891
+
+localResources:
+  docs:
+    - ..\auth-app-boot-react-dev\README.md
+README.md
