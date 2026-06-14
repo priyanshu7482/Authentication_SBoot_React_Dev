@@ -107,7 +107,7 @@ Configure your environment variables (recommended) or update `src/main/resources
 ```yaml
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/auth_app
+    url: jdbc:mysql://localhost:3306/<your-db-name>
     username: <your-db-username>
     password: <your-db-password>
 
