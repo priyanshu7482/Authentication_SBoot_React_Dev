@@ -1,4 +1,4 @@
-# 🔐 Auth App – Spring Boot & React
+# 🔐 Authentication App – Spring Boot & React
 
 A full-stack authentication system built with **Spring Boot 3 (Java)** on the backend and **React 19 + TypeScript + Vite** on the frontend. It supports traditional email/password authentication along with **OAuth2 login (Google & GitHub)**, JWT-based access & refresh tokens, and role-based access control.
 
