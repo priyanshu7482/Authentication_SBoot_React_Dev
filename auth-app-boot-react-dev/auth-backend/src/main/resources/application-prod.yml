@@ -57,7 +57,7 @@ spring:
 
 security:
   jwt:
-    secret: {YOUR_SECURITY_KEY}
+    secret: {YOUR_SECURITY_KEY} 
     issuer: api.substring.com
     access-ttl-seconds: 3600
     refresh-ttl-seconds: 8600
