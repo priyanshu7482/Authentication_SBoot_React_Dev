@@ -65,7 +65,7 @@ logging:
 
 security:
   jwt:
-    secret: ${JWT_SECRET:saiofal;vkasfbehwqpofhjashofjaswfpojasfvbafop[hfifonfo[shjfwefjjfslajfsahfoshffasnbash[f}
+    secret: ${JWT_SECRET:saiofal}
     issuer: ${JWT_ISSUER:api.substring.com}
     access-ttl-seconds: ${JWT_ACCESS_TTL_SECONDS:600}
     refresh-ttl-seconds: ${JWT_REFRESH_TTL_SECONDS:86400}
