@@ -57,7 +57,7 @@ spring:
 
 security:
   jwt:
-    secret: "bXlTZWNyZXRLZXlGb3JKV1RUb2tlbkdlbmVyYXRpb25UaGF0SXhMb25nRW5vdWdoMTIzNDU2Nzg5MA=="
+    secret: {YOUR_SECURITY_KEY}
     issuer: api.substring.com
     access-ttl-seconds: 3600
     refresh-ttl-seconds: 8600
